@@ -1,0 +1,5 @@
+Scraping Sofifa
+
+url = 'https://sofifa.com/players?col=oa&sort=desc'
+parâmetro para inserir após primeira carga: &offset=60
+multiplicar o parâmetro sequencialmente a partir de 2 até 100, fazendo-o variar de 120 a 6000
